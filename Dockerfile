@@ -1,5 +1,6 @@
 FROM ubuntu:18.04
 
+# Directorio de trabajo
 WORKDIR /opt/myapp
 
 COPY . .
