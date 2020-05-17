@@ -16,3 +16,5 @@ Se ha automatizado el proceso de creación de la imagen de Docker y su subida a 
 Last build: https://travis-ci.org/rodorro/cloud-exercise.svg?branch=master
 
 # Práctica 4
+
+Se ha creado un servidor AWS y desplegado la aplicación en el mismo: http://ec2-34-241-218-137.eu-west-1.compute.amazonaws.com/
